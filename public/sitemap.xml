@@ -1,211 +1,211 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://example.com</loc>
+    <loc>https://samuel-wigs.zappy5.app</loc>
     <lastmod>2026-05-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://example.com/about</loc>
+    <loc>https://samuel-wigs.zappy5.app/about</loc>
     <lastmod>2026-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/wig-guide</loc>
+    <loc>https://samuel-wigs.zappy5.app/wig-guide</loc>
     <lastmod>2026-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/contact</loc>
+    <loc>https://samuel-wigs.zappy5.app/contact</loc>
     <lastmod>2026-05-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/products</loc>
+    <loc>https://samuel-wigs.zappy5.app/products</loc>
     <lastmod>2026-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/cart</loc>
+    <loc>https://samuel-wigs.zappy5.app/cart</loc>
     <lastmod>2026-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/checkout</loc>
+    <loc>https://samuel-wigs.zappy5.app/checkout</loc>
     <lastmod>2026-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/login</loc>
+    <loc>https://samuel-wigs.zappy5.app/login</loc>
     <lastmod>2026-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/account</loc>
+    <loc>https://samuel-wigs.zappy5.app/account</loc>
     <lastmod>2026-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/order-success</loc>
+    <loc>https://samuel-wigs.zappy5.app/order-success</loc>
     <lastmod>2026-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/product/:slug</loc>
+    <loc>https://samuel-wigs.zappy5.app/product/:slug</loc>
     <lastmod>2026-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/category/:slug</loc>
+    <loc>https://samuel-wigs.zappy5.app/category/:slug</loc>
     <lastmod>2026-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/privacy</loc>
-    <lastmod>2026-05-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://example.com/terms</loc>
+    <loc>https://samuel-wigs.zappy5.app/privacy</loc>
     <lastmod>2026-05-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://example.com/accessibility</loc>
+    <loc>https://samuel-wigs.zappy5.app/terms</loc>
     <lastmod>2026-05-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://example.com/product/dbk-dv-tsddy-lpavt-tchrh-d0ebyt</loc>
+    <loc>https://samuel-wigs.zappy5.app/accessibility</loc>
+    <lastmod>2026-05-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://samuel-wigs.zappy5.app/product/dbk-dv-tsddy-lpavt-tchrh-d0ebyt</loc>
     <lastmod>2026-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/mchlyk-msrk-chm-u39a6q</loc>
+    <loc>https://samuel-wigs.zappy5.app/product/mchlyk-msrk-chm-u39a6q</loc>
     <lastmod>2026-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/dbk-lpavt-tchrh-30-ml-bold-hold-p8f86y</loc>
+    <loc>https://samuel-wigs.zappy5.app/product/dbk-lpavt-tchrh-30-ml-bold-hold-p8f86y</loc>
     <lastmod>2026-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/msyr-dbk-vtvspvt-shyar-tape-ih-ymktsvay-remover-30-ml-t2pxjj</loc>
+    <loc>https://samuel-wigs.zappy5.app/product/msyr-dbk-vtvspvt-shyar-tape-ih-ymktsvay-remover-30-ml-t2pxjj</loc>
     <lastmod>2026-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/spryy-dbk-lpah-vlshyar-500-ml-zeeiyu</loc>
+    <loc>https://samuel-wigs.zappy5.app/product/spryy-dbk-lpah-vlshyar-500-ml-zeeiyu</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/vvks-styk-lpah-vlshyar-33t1a5</loc>
+    <loc>https://samuel-wigs.zappy5.app/product/vvks-styk-lpah-vlshyar-33t1a5</loc>
     <lastmod>2026-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/srt-mvna-hchlkh-lpah-zoicsy</loc>
+    <loc>https://samuel-wigs.zappy5.app/product/srt-mvna-hchlkh-lpah-zoicsy</loc>
     <lastmod>2026-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/pah-mtvltlt-karh-y4i3w4</loc>
+    <loc>https://samuel-wigs.zappy5.app/product/pah-mtvltlt-karh-y4i3w4</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/pah-karh-chlkh-f1n5r4</loc>
+    <loc>https://samuel-wigs.zappy5.app/product/pah-karh-chlkh-f1n5r4</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/pah-gly-tbayt-gnq9ar</loc>
+    <loc>https://samuel-wigs.zappy5.app/product/pah-gly-tbayt-gnq9ar</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/pah-chlkh-tbayt-v28ooh</loc>
+    <loc>https://samuel-wigs.zappy5.app/product/pah-chlkh-tbayt-v28ooh</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/pah-chlkh-pvny-arvkh-dj9vii</loc>
+    <loc>https://samuel-wigs.zappy5.app/product/pah-chlkh-pvny-arvkh-dj9vii</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/pah-gly-tbayt-copy-v45e5t</loc>
+    <loc>https://samuel-wigs.zappy5.app/product/pah-gly-tbayt-copy-v45e5t</loc>
     <lastmod>2026-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/pah-gly-tbayt-jhd17k</loc>
+    <loc>https://samuel-wigs.zappy5.app/product/pah-gly-tbayt-jhd17k</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/pah-mtvltlt-arvkh-th63t2</loc>
+    <loc>https://samuel-wigs.zappy5.app/product/pah-mtvltlt-arvkh-th63t2</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/pah-gly-pvny-pcjvfq</loc>
+    <loc>https://samuel-wigs.zappy5.app/product/pah-gly-pvny-pcjvfq</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/pah-chlkh-arvkh-k5onyo</loc>
+    <loc>https://samuel-wigs.zappy5.app/product/pah-chlkh-arvkh-k5onyo</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/pah-gly-arvkh-n5798p</loc>
+    <loc>https://samuel-wigs.zappy5.app/product/pah-gly-arvkh-n5798p</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/pah-gly-btsba-chvm-k544xs</loc>
+    <loc>https://samuel-wigs.zappy5.app/product/pah-gly-btsba-chvm-k544xs</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/pah-chlkh-riubmz</loc>
+    <loc>https://samuel-wigs.zappy5.app/product/pah-chlkh-riubmz</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>

@@ -1,7 +1,7 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-05T08:32:35.004Z",
-  "base_url": "https://example.com",
+  "generated_at": "2026-05-05T08:33:47.393Z",
+  "base_url": "https://samuel-wigs.zappy5.app",
   "currency": "ILS",
   "count": 20,
   "products": [
@@ -19,12 +19,12 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1777743934312-abh2u2.webp",
-        "https://example.com/assets/product-1777743944644-6svjvc.webp"
+        "https://samuel-wigs.zappy5.app/assets/product-1777743934312-abh2u2.webp",
+        "https://samuel-wigs.zappy5.app/assets/product-1777743944644-6svjvc.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/dbk-dv-tsddy-lpavt-tchrh-d0ebyt",
+      "url": "https://samuel-wigs.zappy5.app/product/dbk-dv-tsddy-lpavt-tchrh-d0ebyt",
       "categories": [
         "מוצרים נלווים לפאה"
       ],
@@ -44,12 +44,12 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1777739912255-0cfw0h.webp",
-        "https://example.com/assets/product-1777739925387-fxuhdl.webp"
+        "https://samuel-wigs.zappy5.app/assets/product-1777739912255-0cfw0h.webp",
+        "https://samuel-wigs.zappy5.app/assets/product-1777739925387-fxuhdl.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/mchlyk-msrk-chm-u39a6q",
+      "url": "https://samuel-wigs.zappy5.app/product/mchlyk-msrk-chm-u39a6q",
       "categories": [
         "מוצרים נלווים לפאה"
       ],
@@ -69,11 +69,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1777738763269-0nucfn.webp"
+        "https://samuel-wigs.zappy5.app/assets/product-1777738763269-0nucfn.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/dbk-lpavt-tchrh-30-ml-bold-hold-p8f86y",
+      "url": "https://samuel-wigs.zappy5.app/product/dbk-lpavt-tchrh-30-ml-bold-hold-p8f86y",
       "categories": [
         "מוצרים נלווים לפאה"
       ],
@@ -93,11 +93,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1777737685016-jexr8r.webp"
+        "https://samuel-wigs.zappy5.app/assets/product-1777737685016-jexr8r.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/msyr-dbk-vtvspvt-shyar-tape-ih-ymktsvay-remover-30-ml-t2pxjj",
+      "url": "https://samuel-wigs.zappy5.app/product/msyr-dbk-vtvspvt-shyar-tape-ih-ymktsvay-remover-30-ml-t2pxjj",
       "categories": [
         "מוצרים נלווים לפאה"
       ],
@@ -117,11 +117,11 @@
       "sale_price": 220,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1777477969310-nlxkj.webp"
+        "https://samuel-wigs.zappy5.app/assets/product-1777477969310-nlxkj.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/spryy-dbk-lpah-vlshyar-500-ml-zeeiyu",
+      "url": "https://samuel-wigs.zappy5.app/product/spryy-dbk-lpah-vlshyar-500-ml-zeeiyu",
       "categories": [
         "מוצרים נלווים לפאה"
       ],
@@ -141,12 +141,12 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1777737924555-t6u0cr.webp",
-        "https://example.com/assets/product-1777737937592-ihprms.webp"
+        "https://samuel-wigs.zappy5.app/assets/product-1777737924555-t6u0cr.webp",
+        "https://samuel-wigs.zappy5.app/assets/product-1777737937592-ihprms.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/vvks-styk-lpah-vlshyar-33t1a5",
+      "url": "https://samuel-wigs.zappy5.app/product/vvks-styk-lpah-vlshyar-33t1a5",
       "categories": [
         "מוצרים נלווים לפאה"
       ],
@@ -166,11 +166,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1777300785698-5e6b1.webp"
+        "https://samuel-wigs.zappy5.app/assets/product-1777300785698-5e6b1.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/srt-mvna-hchlkh-lpah-zoicsy",
+      "url": "https://samuel-wigs.zappy5.app/product/srt-mvna-hchlkh-lpah-zoicsy",
       "categories": [
         "מוצרים נלווים לפאה"
       ],
@@ -190,13 +190,13 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1776955070984-og4hg.webp",
-        "https://example.com/assets/product-1777307911790-tvscdm.webp",
-        "https://example.com/assets/product-1777307915221-0qhm4.webp"
+        "https://samuel-wigs.zappy5.app/assets/product-1776955070984-og4hg.webp",
+        "https://samuel-wigs.zappy5.app/assets/product-1777307911790-tvscdm.webp",
+        "https://samuel-wigs.zappy5.app/assets/product-1777307915221-0qhm4.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/pah-mtvltlt-karh-y4i3w4",
+      "url": "https://samuel-wigs.zappy5.app/product/pah-mtvltlt-karh-y4i3w4",
       "categories": [],
       "updated_at": "2026-04-29T14:26:41.892Z"
     },
@@ -214,13 +214,13 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1776954674935-i198v6.webp",
-        "https://example.com/assets/product-1777308730519-zujpkf.webp",
-        "https://example.com/assets/product-1777308733881-fnq0zu.webp"
+        "https://samuel-wigs.zappy5.app/assets/product-1776954674935-i198v6.webp",
+        "https://samuel-wigs.zappy5.app/assets/product-1777308730519-zujpkf.webp",
+        "https://samuel-wigs.zappy5.app/assets/product-1777308733881-fnq0zu.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/pah-karh-chlkh-f1n5r4",
+      "url": "https://samuel-wigs.zappy5.app/product/pah-karh-chlkh-f1n5r4",
       "categories": [],
       "updated_at": "2026-04-29T14:29:49.897Z"
     },
@@ -238,13 +238,13 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1776954555171-5fj8v.webp",
-        "https://example.com/assets/product-1777308908962-upmogi.webp",
-        "https://example.com/assets/product-1777308912401-e8lr95.webp"
+        "https://samuel-wigs.zappy5.app/assets/product-1776954555171-5fj8v.webp",
+        "https://samuel-wigs.zappy5.app/assets/product-1777308908962-upmogi.webp",
+        "https://samuel-wigs.zappy5.app/assets/product-1777308912401-e8lr95.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/pah-gly-tbayt-gnq9ar",
+      "url": "https://samuel-wigs.zappy5.app/product/pah-gly-tbayt-gnq9ar",
       "categories": [],
       "updated_at": "2026-04-29T14:29:11.173Z"
     },
@@ -262,13 +262,13 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1776954464232-qad2nk.webp",
-        "https://example.com/assets/product-1777308935585-b8riuw.webp",
-        "https://example.com/assets/product-1777308939239-crmeuv.webp"
+        "https://samuel-wigs.zappy5.app/assets/product-1776954464232-qad2nk.webp",
+        "https://samuel-wigs.zappy5.app/assets/product-1777308935585-b8riuw.webp",
+        "https://samuel-wigs.zappy5.app/assets/product-1777308939239-crmeuv.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/pah-chlkh-tbayt-v28ooh",
+      "url": "https://samuel-wigs.zappy5.app/product/pah-chlkh-tbayt-v28ooh",
       "categories": [],
       "updated_at": "2026-04-29T14:31:01.657Z"
     },
@@ -286,13 +286,13 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1776954406439-noh7d.webp",
-        "https://example.com/assets/product-1777309059621-f8d3c7.webp",
-        "https://example.com/assets/product-1777309062554-kbp13m.webp"
+        "https://samuel-wigs.zappy5.app/assets/product-1776954406439-noh7d.webp",
+        "https://samuel-wigs.zappy5.app/assets/product-1777309059621-f8d3c7.webp",
+        "https://samuel-wigs.zappy5.app/assets/product-1777309062554-kbp13m.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/pah-chlkh-pvny-arvkh-dj9vii",
+      "url": "https://samuel-wigs.zappy5.app/product/pah-chlkh-pvny-arvkh-dj9vii",
       "categories": [],
       "updated_at": "2026-04-29T14:31:54.120Z"
     },
@@ -310,12 +310,12 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1776954318641-xlgdu8.webp",
-        "https://example.com/assets/product-1777309132490-1nqc3f.webp"
+        "https://samuel-wigs.zappy5.app/assets/product-1776954318641-xlgdu8.webp",
+        "https://samuel-wigs.zappy5.app/assets/product-1777309132490-1nqc3f.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/pah-gly-tbayt-copy-v45e5t",
+      "url": "https://samuel-wigs.zappy5.app/product/pah-gly-tbayt-copy-v45e5t",
       "categories": [
         "פאות במשלוח מהיר לבית 7 ימי עסקים"
       ],
@@ -335,13 +335,13 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1776954318641-xlgdu8.webp",
-        "https://example.com/assets/product-1777309132490-1nqc3f.webp",
-        "https://example.com/assets/product-1777309135732-mjsn9n.webp"
+        "https://samuel-wigs.zappy5.app/assets/product-1776954318641-xlgdu8.webp",
+        "https://samuel-wigs.zappy5.app/assets/product-1777309132490-1nqc3f.webp",
+        "https://samuel-wigs.zappy5.app/assets/product-1777309135732-mjsn9n.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/pah-gly-tbayt-jhd17k",
+      "url": "https://samuel-wigs.zappy5.app/product/pah-gly-tbayt-jhd17k",
       "categories": [],
       "updated_at": "2026-04-29T14:33:17.769Z"
     },
@@ -359,13 +359,13 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1776954229843-2c1ebbd.webp",
-        "https://example.com/assets/product-1777309231472-abxma4.webp",
-        "https://example.com/assets/product-1777309234951-1d3ylu.webp"
+        "https://samuel-wigs.zappy5.app/assets/product-1776954229843-2c1ebbd.webp",
+        "https://samuel-wigs.zappy5.app/assets/product-1777309231472-abxma4.webp",
+        "https://samuel-wigs.zappy5.app/assets/product-1777309234951-1d3ylu.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/pah-mtvltlt-arvkh-th63t2",
+      "url": "https://samuel-wigs.zappy5.app/product/pah-mtvltlt-arvkh-th63t2",
       "categories": [],
       "updated_at": "2026-04-29T14:34:08.474Z"
     },
@@ -383,13 +383,13 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1777124244756-uztixn.webp",
-        "https://example.com/assets/product-1777309533669-j4bgl.webp",
-        "https://example.com/assets/product-1777309536971-ghanff.webp"
+        "https://samuel-wigs.zappy5.app/assets/product-1777124244756-uztixn.webp",
+        "https://samuel-wigs.zappy5.app/assets/product-1777309533669-j4bgl.webp",
+        "https://samuel-wigs.zappy5.app/assets/product-1777309536971-ghanff.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/pah-gly-pvny-pcjvfq",
+      "url": "https://samuel-wigs.zappy5.app/product/pah-gly-pvny-pcjvfq",
       "categories": [],
       "updated_at": "2026-04-29T14:35:07.091Z"
     },
@@ -407,13 +407,13 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1776953595712-00wud.webp",
-        "https://example.com/assets/product-1777309651223-2w4lpm.webp",
-        "https://example.com/assets/product-1777309654714-blupx9.webp"
+        "https://samuel-wigs.zappy5.app/assets/product-1776953595712-00wud.webp",
+        "https://samuel-wigs.zappy5.app/assets/product-1777309651223-2w4lpm.webp",
+        "https://samuel-wigs.zappy5.app/assets/product-1777309654714-blupx9.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/pah-chlkh-arvkh-k5onyo",
+      "url": "https://samuel-wigs.zappy5.app/product/pah-chlkh-arvkh-k5onyo",
       "categories": [],
       "updated_at": "2026-04-29T14:36:02.337Z"
     },
@@ -431,13 +431,13 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1776953397303-0e5qgk.webp",
-        "https://example.com/assets/product-1777309751036-u5lq8c.webp",
-        "https://example.com/assets/product-1777309754550-c3ah9lv.webp"
+        "https://samuel-wigs.zappy5.app/assets/product-1776953397303-0e5qgk.webp",
+        "https://samuel-wigs.zappy5.app/assets/product-1777309751036-u5lq8c.webp",
+        "https://samuel-wigs.zappy5.app/assets/product-1777309754550-c3ah9lv.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/pah-gly-arvkh-n5798p",
+      "url": "https://samuel-wigs.zappy5.app/product/pah-gly-arvkh-n5798p",
       "categories": [],
       "updated_at": "2026-04-29T14:36:56.525Z"
     },
@@ -455,13 +455,13 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-1776953066123-p55sy.webp",
-        "https://example.com/assets/product-1777309864623-2gabbc.webp",
-        "https://example.com/assets/product-1777309867723-gde0gh.webp"
+        "https://samuel-wigs.zappy5.app/assets/product-1776953066123-p55sy.webp",
+        "https://samuel-wigs.zappy5.app/assets/product-1777309864623-2gabbc.webp",
+        "https://samuel-wigs.zappy5.app/assets/product-1777309867723-gde0gh.webp"
       ],
       "in_stock": false,
       "stock_status": "out_of_stock",
-      "url": "https://example.com/product/pah-gly-btsba-chvm-k544xs",
+      "url": "https://samuel-wigs.zappy5.app/product/pah-gly-btsba-chvm-k544xs",
       "categories": [],
       "updated_at": "2026-04-29T14:37:54.938Z"
     },
@@ -479,13 +479,13 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-autofit-1776939762265-5mhb9.webp",
-        "https://example.com/assets/product-1777309936753-x24yq.webp",
-        "https://example.com/assets/product-1777309940305-9d0wxr.webp"
+        "https://samuel-wigs.zappy5.app/assets/product-autofit-1776939762265-5mhb9.webp",
+        "https://samuel-wigs.zappy5.app/assets/product-1777309936753-x24yq.webp",
+        "https://samuel-wigs.zappy5.app/assets/product-1777309940305-9d0wxr.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/pah-chlkh-riubmz",
+      "url": "https://samuel-wigs.zappy5.app/product/pah-chlkh-riubmz",
       "categories": [],
       "updated_at": "2026-04-29T14:38:35.844Z"
     }

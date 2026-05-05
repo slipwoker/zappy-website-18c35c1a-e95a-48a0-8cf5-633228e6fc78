@@ -2,13 +2,13 @@
 
 A wig store website inspired by the style and feel of Gigi Wig — a professional, elegant online destination for wigs. The brand focuses on beauty, hair fashion, and personal transformation, offering customers a refined shopping experience for high-quality wigs.
 
-Source: https://example.com
+Source: https://samuel-wigs.zappy5.app
 
 ---
 
 ## גלי את עצמך מחדש עם פאות פרמיום — Samuel-wigs
 
-URL: https://example.com
+URL: https://samuel-wigs.zappy5.app
 Description: חנות הפאות האונליין המובילה בישראל. קניית פאות איכותיות בישראל מעולם לא הייתה קלה כל כך — עיצובים מרהיבים, שירות מקצועי ומשלוח מהיר לביתך.
 
 - מוצרים כל המוצרים
@@ -631,7 +631,7 @@ Samuel-wigs היא יעד מוביל לפאות איכותיות בישראל �
 
 ## הסיפור מאחורי כל פאה מושלמת — Samuel-wigs
 
-URL: https://example.com/about
+URL: https://samuel-wigs.zappy5.app/about
 Description: Samuel-wigs נולדה מתוך אהבה לאופנה ויופי. גלי את הערכים, החזון והמומחיות שהפכו אותנו למותג הפאות האמין והאלגנטי ביותר עבור נשים בישראל.
 
 הסיפור מאחורי כל פאה מושלמת — Samuel-wigs
@@ -1100,7 +1100,7 @@ Samuel-wigs היא יותר מחנות פאות — היא מרחב שבו כל 
 
 ## כל מה שצריך לדעת לפני שקונים פאה — Samuel-wigs
 
-URL: https://example.com/wig-guide
+URL: https://samuel-wigs.zappy5.app/wig-guide
 Description: המדריך המקיף לבחירת פאה מושלמת: סוגי שיער, מידות, טיפוח ועוד. Samuel-wigs מעניקה לך את הידע כדי לבצע קניית פאות איכותיות בישראל בביטחון מלא.
 
 - מוצרים כל המוצרים
@@ -1878,7 +1878,7 @@ Description: המדריך המקיף לבחירת פאה מושלמת: סוגי 
 
 ## נשמח לעזור לך למצוא את הפאה שלך — Samuel-wigs
 
-URL: https://example.com/contact
+URL: https://samuel-wigs.zappy5.app/contact
 Description: יש שאלות? צוות המומחים של Samuel-wigs כאן בשבילך. פני אלינו עוד היום לייעוץ אישי, הזמנות מותאמות ושירות חם שמתחיל מהרגע הראשון.
 
 נשמח לעזור לך למצוא את הפאה שלך — Samuel-wigs
@@ -2267,7 +2267,7 @@ esterb3205@gmail.com
 
 ## מוצרים
 
-URL: https://example.com/products
+URL: https://samuel-wigs.zappy5.app/products
 Description: המוצרים שלנו - Samuel-wigs
 
 - מוצרים כל המוצרים
@@ -2561,7 +2561,7 @@ sale
 
 ## עגלת קניות
 
-URL: https://example.com/cart
+URL: https://samuel-wigs.zappy5.app/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - Samuel-wigs
@@ -2756,7 +2756,7 @@ Description: עגלת הקניות שלך
 
 ## תשלום
 
-URL: https://example.com/checkout
+URL: https://samuel-wigs.zappy5.app/checkout
 Description: תשלום
 
 תשלום - Samuel-wigs
@@ -3129,7 +3129,7 @@ Description: תשלום
 
 ## התחברות
 
-URL: https://example.com/login
+URL: https://samuel-wigs.zappy5.app/login
 Description: התחברות לקוחות
 
 התחברות - Samuel-wigs
@@ -3331,7 +3331,7 @@ Description: התחברות לקוחות
 
 ## החשבון שלי
 
-URL: https://example.com/account
+URL: https://samuel-wigs.zappy5.app/account
 Description: החשבון שלי
 
 החשבון שלי - Samuel-wigs
@@ -3627,7 +3627,7 @@ Description: החשבון שלי
 
 ## ההזמנה התקבלה!
 
-URL: https://example.com/order-success
+URL: https://samuel-wigs.zappy5.app/order-success
 Description: תודה על ההזמנה
 
 ההזמנה התקבלה! - Samuel-wigs
@@ -3846,7 +3846,7 @@ Description: תודה על ההזמנה
 
 ## מדיניות החזרות
 
-URL: https://example.com/regulations
+URL: https://samuel-wigs.zappy5.app/regulations
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 תקנון
@@ -4086,7 +4086,7 @@ Description: מדיניות החזרת מוצרים - זכויותיכם להח�
 
 ## פרטי המוצר
 
-URL: https://example.com/product/:slug
+URL: https://samuel-wigs.zappy5.app/product/:slug
 Description: פרטי המוצר - Samuel-wigs
 
 פרטי המוצר - Samuel-wigs
@@ -4283,7 +4283,7 @@ Description: פרטי המוצר - Samuel-wigs
 
 ## מוצרים
 
-URL: https://example.com/category/:slug
+URL: https://samuel-wigs.zappy5.app/category/:slug
 Description: מוצרים - Samuel-wigs
 
 מוצרים - Samuel-wigs
@@ -4504,7 +4504,7 @@ Description: מוצרים - Samuel-wigs
 
 ## מדיניות פרטיות
 
-URL: https://example.com/privacy
+URL: https://samuel-wigs.zappy5.app/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -4807,7 +4807,7 @@ Samuel-wigs ("החברה", "אנו", "שלנו") מחויבת להגן על פר
 
 ## הצהרת נגישות
 
-URL: https://example.com/accessibility
+URL: https://samuel-wigs.zappy5.app/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -5119,7 +5119,7 @@ Samuel-wigs מחויבת להנגיש את השירותים לכלל הציבו�
 
 ## תנאי שימוש
 
-URL: https://example.com/terms
+URL: https://samuel-wigs.zappy5.app/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -5450,7 +5450,7 @@ Samuel-wigs מספקת אופנה ויופי דרך האתר. השירותים �
 
 ## מדיניות החזרות
 
-URL: https://example.com/return-policy
+URL: https://samuel-wigs.zappy5.app/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - Samuel-wigs
@@ -5699,140 +5699,140 @@ Samuel-wigs מחויבת לשביעות רצון לקוחותיה. מדיניו�
 ## Product Catalog
 
 ### דבק דו צדדי לפאות תחרה
-URL: https://example.com/product/dbk-dv-tsddy-lpavt-tchrh-d0ebyt
+URL: https://samuel-wigs.zappy5.app/product/dbk-dv-tsddy-lpavt-tchrh-d0ebyt
 Price: 160.00 ILS
 Availability: In stock
 
 ---
 
 ### מחליק מסרק חם
-URL: https://example.com/product/mchlyk-msrk-chm-u39a6q
+URL: https://samuel-wigs.zappy5.app/product/mchlyk-msrk-chm-u39a6q
 Price: 350.00 ILS
 Availability: In stock
 
 ---
 
 ###  דבק לפאות תחרה  30  מ"ל  Bold Hold    
-URL: https://example.com/product/dbk-lpavt-tchrh-30-ml-bold-hold-p8f86y
+URL: https://samuel-wigs.zappy5.app/product/dbk-lpavt-tchrh-30-ml-bold-hold-p8f86y
 Price: 160.00 ILS
 Availability: In stock
 
 ---
 
 ### מסיר דבק ותוספות שיער Tape  ih ימקצועי  (Remover) – 30 מ"ל
-URL: https://example.com/product/msyr-dbk-vtvspvt-shyar-tape-ih-ymktsvay-remover-30-ml-t2pxjj
+URL: https://samuel-wigs.zappy5.app/product/msyr-dbk-vtvspvt-shyar-tape-ih-ymktsvay-remover-30-ml-t2pxjj
 Price: 75.00 ILS
 Availability: In stock
 
 ---
 
 ### ספריי דבק לפאה ולשיער 500 מ"ל
-URL: https://example.com/product/spryy-dbk-lpah-vlshyar-500-ml-zeeiyu
+URL: https://samuel-wigs.zappy5.app/product/spryy-dbk-lpah-vlshyar-500-ml-zeeiyu
 Price: 220.00 ILS (sale, was 340.00 ILS)
 Availability: In stock
 
 ---
 
 ### ווקס סטיק לפאה ולשיער
-URL: https://example.com/product/vvks-styk-lpah-vlshyar-33t1a5
+URL: https://samuel-wigs.zappy5.app/product/vvks-styk-lpah-vlshyar-33t1a5
 Price: 75.00 ILS
 Availability: In stock
 
 ---
 
 ### סרט מונע החלקה לפאה
-URL: https://example.com/product/srt-mvna-hchlkh-lpah-zoicsy
+URL: https://samuel-wigs.zappy5.app/product/srt-mvna-hchlkh-lpah-zoicsy
 Price: 130.00 ILS
 Availability: In stock
 
 ---
 
 ### פאה מתולתלת קארה
-URL: https://example.com/product/pah-mtvltlt-karh-y4i3w4
+URL: https://samuel-wigs.zappy5.app/product/pah-mtvltlt-karh-y4i3w4
 Price: 2250.00 ILS
 Availability: In stock
 
 ---
 
 ### פאה קארה חלקה
-URL: https://example.com/product/pah-karh-chlkh-f1n5r4
+URL: https://samuel-wigs.zappy5.app/product/pah-karh-chlkh-f1n5r4
 Price: 2250.00 ILS
 Availability: In stock
 
 ---
 
 ### פאה גלי טבעית
-URL: https://example.com/product/pah-gly-tbayt-gnq9ar
+URL: https://samuel-wigs.zappy5.app/product/pah-gly-tbayt-gnq9ar
 Price: 2850.00 ILS
 Availability: In stock
 
 ---
 
 ### פאה חלקה טבעית
-URL: https://example.com/product/pah-chlkh-tbayt-v28ooh
+URL: https://samuel-wigs.zappy5.app/product/pah-chlkh-tbayt-v28ooh
 Price: 2850.00 ILS
 Availability: In stock
 
 ---
 
 ### פאה חלקה פוני ארוכה
-URL: https://example.com/product/pah-chlkh-pvny-arvkh-dj9vii
+URL: https://samuel-wigs.zappy5.app/product/pah-chlkh-pvny-arvkh-dj9vii
 Price: 5850.00 ILS
 Availability: In stock
 
 ---
 
 ### פאה גלי טבעית  (Copy)
-URL: https://example.com/product/pah-gly-tbayt-copy-v45e5t
+URL: https://samuel-wigs.zappy5.app/product/pah-gly-tbayt-copy-v45e5t
 Price: 3350.00 ILS
 Availability: In stock
 
 ---
 
 ### פאה גלי טבעית 
-URL: https://example.com/product/pah-gly-tbayt-jhd17k
+URL: https://samuel-wigs.zappy5.app/product/pah-gly-tbayt-jhd17k
 Price: 3350.00 ILS
 Availability: In stock
 
 ---
 
 ### פאה מתולתלת ארוכה
-URL: https://example.com/product/pah-mtvltlt-arvkh-th63t2
+URL: https://samuel-wigs.zappy5.app/product/pah-mtvltlt-arvkh-th63t2
 Price: 5650.00 ILS
 Availability: In stock
 
 ---
 
 ### פאה גלי פוני
-URL: https://example.com/product/pah-gly-pvny-pcjvfq
+URL: https://samuel-wigs.zappy5.app/product/pah-gly-pvny-pcjvfq
 Price: 4150.00 ILS
 Availability: In stock
 
 ---
 
 ### פאה חלקה ארוכה
-URL: https://example.com/product/pah-chlkh-arvkh-k5onyo
+URL: https://samuel-wigs.zappy5.app/product/pah-chlkh-arvkh-k5onyo
 Price: 5650.00 ILS
 Availability: In stock
 
 ---
 
 ### פאה גלי ארוכה
-URL: https://example.com/product/pah-gly-arvkh-n5798p
+URL: https://samuel-wigs.zappy5.app/product/pah-gly-arvkh-n5798p
 Price: 5650.00 ILS
 Availability: In stock
 
 ---
 
 ### פאה גלי בצבע חום
-URL: https://example.com/product/pah-gly-btsba-chvm-k544xs
+URL: https://samuel-wigs.zappy5.app/product/pah-gly-btsba-chvm-k544xs
 Price: 6150.00 ILS
 Availability: Out of stock
 
 ---
 
 ### פאה חלקה
-URL: https://example.com/product/pah-chlkh-riubmz
+URL: https://samuel-wigs.zappy5.app/product/pah-chlkh-riubmz
 Price: 2450.00 ILS
 Availability: In stock
 
